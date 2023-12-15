@@ -226,7 +226,7 @@ export const projects = [
       "This project is actually a android game inspired from the famous game ‘Angry Bird’.",
     image:
       "",
-    tags: ["PHP", "JavaScript", "JQuery", "Ajax", "HTML", "CSS", "Bootstrap", "MySQL", "XAMPP Server"],
+    tags: ["C#", "Unity Game Engine"],
     category: "game development",
     github: "https://github.com/faisaljabet/MadBird",
   },
